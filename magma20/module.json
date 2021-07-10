@@ -13,7 +13,7 @@
 			}
 	],
 	"scripts": [
-		"scripts/magma20.js", "scripts/TPK.js"
+		"scripts/magma20.js", "scripts/TPK.js", "scripts/Galaxy.js", "scripts/Alien.js"
 	],
 	"url": "https://github.com/euwlo/foundryvtt-magma20/",
 	"manifest": "https://raw.githubusercontent.com/euwlo/foundryvtt-magma20/main/magma20/module.json",
